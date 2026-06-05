@@ -1,5 +1,5 @@
 const api =
-"http://localhost:5000";
+"https://student-feedback-app-qiaz.onrender.com";
 
 async function addFeedback(){
 
